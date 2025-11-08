@@ -11,7 +11,8 @@ This is an end-to-end, event-driven data platform on Azure that turns real-time 
 
 As the first step, I have designed the complete high-level architecture for the data pipeline, from ingestion to intelligent action.
 
-**[Click here to see the full Project Architecture & Diagram](./docs/architecture.md)**
+![Project Architecture](./docs/architecture-diagram.png)
+
 
 ---
 
