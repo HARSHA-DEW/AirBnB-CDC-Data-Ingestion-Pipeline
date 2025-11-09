@@ -18,3 +18,9 @@ As the first step, I have designed the complete high-level architecture for the 
 
 ## Project Goal
 This project demonstrates a complete, event-driven loop: it ingests customer booking data in real-time, feeds it to an AI agent, and automatically sends a personalized booking status acknowledgement right back to the customer.
+
+---
+
+### Day 2: Cloud Infrastructure Setup
+Detailed the setup and rationale for our core services: ADLS Gen2, Cosmos DB, and Synapse Analytics.
+* **[Click here to see the Service Setup & Rationale](./docs/day-2-setup.md)**
