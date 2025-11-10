@@ -24,3 +24,7 @@ This project demonstrates a complete, event-driven loop: it ingests customer boo
 ### Day 2: Cloud Infrastructure Setup
 Detailed the setup and rationale for our core services: ADLS Gen2, Cosmos DB, and Synapse Analytics.
 * **[Click here to see the Service Setup & Rationale](./docs/day-2-setup.md)**
+
+### Day 3: DWH Build & ADF Connections
+Created the star-schema tables, high-performance aggregation layer, and all ADF Linked Services.
+* **[Click here to see the DWH scripts](./docs/day-3-build.md)**
