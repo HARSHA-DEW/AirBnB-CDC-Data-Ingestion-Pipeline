@@ -1,4 +1,4 @@
-## Day 3: Building the Data Warehouse & ADF Connections
+## Day 3: Building the Data Warehouse
 
 On Day 2, we provisioned our empty Azure services. Today, we build the internal structure of our Data Warehouse and create the "digital plumbing" (Linked Services) in Azure Data Factory (ADF) to connect all our services.
 
