@@ -28,3 +28,7 @@ Detailed the setup and rationale for our core services: ADLS Gen2, Cosmos DB, an
 ### Day 3: DWH Build & ADF Connections
 Created the star-schema tables, high-performance aggregation layer, and all ADF Linked Services.
 * **[Click here to see the DWH scripts](./docs/day-3-build.md)**
+
+### Day 4: Mock Data Generation (TDD)
+Documented the Test-Driven Development (TDD) approach, explaining the "why" and "how" of generating mock data for both batch (SCD) and real-time (CDC) pipelines.
+* **[Click here to see the Mock Data Rationale](./docs/day-4-mock-data.md)**
