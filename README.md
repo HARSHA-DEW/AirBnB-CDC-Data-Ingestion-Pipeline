@@ -32,3 +32,8 @@ Created the star-schema tables, high-performance aggregation layer, and all ADF 
 ### Day 4: Mock Data Generation (TDD)
 Documented the Test-Driven Development (TDD) approach, explaining the "why" and "how" of generating mock data for both batch (SCD) and real-time (CDC) pipelines.
 * **[Click here to see the Mock Data Rationale](./docs/day-4-mock-data.md)**
+
+### Day 5: Synapse DWH Build & SQL Rationale
+Committed the foundational SQL script for building the DWH and documented the "why" behind its idempotent and performance-optimized (ELT) design.
+* **[Click here to see the Synapse SQL Rationale](./docs/day-5-synapse-build.md)**
+* **[Click here to see the SQL Build Script](./sql_queries/synapse_table_creation.sql)**
