@@ -37,3 +37,12 @@ Documented the Test-Driven Development (TDD) approach, explaining the "why" and 
 Committed the foundational SQL script for building the DWH and documented the "why" behind its idempotent and performance-optimized (ELT) design.
 * **[Click here to see the Synapse SQL Rationale](./docs/day-5-synapse-build.md)**
 * **[Click here to see the SQL Build Script](./sql_queries/synapse_table_creation.sql)**
+
+### Day 6: ADF "Password-less" Auth
+Committed the SQL script to "whitelist" the ADF Managed Identity in Synapse and documented this critical, secure authentication pattern.
+* **[Click here to see the ADF Auth Rationale](./docs/day-6-auth.md)**
+* **[Click here to see the ADF Permissions Script](./sql_queries/grant_adf_permissions.sql)**
+
+### Day 7: Pipeline 1 - Batch Customer Load
+Built the resilient, metadata-driven ADF pipeline for batch customer data (SCD Type-1) with audit logging and idempotent file handling.
+* **[Click here to see the Pipeline 1 Build & Rationale](./docs/day-7-pipeline-1-build.md)**
